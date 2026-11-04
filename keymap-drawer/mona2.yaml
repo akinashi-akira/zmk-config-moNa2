@@ -58,7 +58,7 @@ layers:
   - '5'
   - '6'
   - '-'
-  - '*'
+  - Sft+'
   - {t: ▽, type: trans}
   - <
   - '>'
@@ -68,7 +68,7 @@ layers:
   - {t: '1', h: LEFT SHIFT}
   - '2'
   - '3'
-  - +
+  - Sft+;
   - /
   - '&mkp RCLK'
   - {t: ▽, type: trans}
