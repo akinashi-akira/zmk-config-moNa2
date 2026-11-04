@@ -11,7 +11,8 @@
 #define SCROLL 6
 
 &mt {
-    flavor = "balanced";
+    flavor = "tap-preferred";
+    tapping-term-ms = <280>;
     quick-tap-ms = <0>;
 };
 
