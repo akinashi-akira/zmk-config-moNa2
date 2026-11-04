@@ -101,8 +101,8 @@
         layer_1 {
             bindings = <
 &mt ESC NUMBER_7         &kp NUMBER_8         &kp NUMBER_9        &kp BACKSPACE  &kp DEL                                &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL
-&kp NUMBER_4             &kp NUMBER_5         &kp NUMBER_6        &kp MINUS      &kp ASTRK               &trans         &kp LESS_THAN     &kp GREATER_THAN   &kp SEMICOLON         &kp UP                 &kp COLON
-&mt LEFT_SHIFT NUMBER_1  &kp NUMBER_2         &kp NUMBER_3        &kp PLUS       &kp SLASH  &mkp RCLK    &trans         &kp AT_SIGN       &kp LBKT           &kp LEFT              &kp DOWN               &mt RIGHT_SHIFT RIGHT
+&kp NUMBER_4             &kp NUMBER_5         &kp NUMBER_6        &kp MINUS      &kp LS(SINGLE_QUOTE)               &trans         &kp LESS_THAN     &kp GREATER_THAN   &kp SEMICOLON         &kp UP                 &kp COLON
+&mt LEFT_SHIFT NUMBER_1  &kp NUMBER_2         &kp NUMBER_3        &kp LS(SEMICOLON)       &kp SLASH  &mkp RCLK    &trans         &kp AT_SIGN       &kp LBKT           &kp LEFT              &kp DOWN               &mt RIGHT_SHIFT RIGHT
 &mt LCTRL NUMBER_0       &mt LEFT_GUI PERIOD  &mt LEFT_ALT COMMA  &kp ENTER      &kp PIPE   &mkp LCLK    &kp BACKSPACE  &trans                                                                            &kp ENTER
             >;
 
